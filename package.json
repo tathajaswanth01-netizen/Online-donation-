@@ -1,0 +1,24 @@
+{
+  "name": "online-donation-platform",
+  "version": "1.0.0",
+  "description": "Centralized Online Donation Platform built with the MERN stack",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "test:server": "cd server && npm test",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "nodejs",
+    "express",
+    "mongodb",
+    "donation-platform",
+    "reuse",
+    "sustainability"
+  ],
+  "author": "Full-Stack Developer",
+  "license": "MIT"
+}
